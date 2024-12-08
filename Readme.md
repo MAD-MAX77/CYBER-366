@@ -84,18 +84,18 @@
    ```
 2. installation
    ```
-   git clone https://github.com/sataniceypz/Izumi-v3
+   git clone https://github.com/Shameem366/CYBER-366
    cd Izumi-v3
 4. Configuration
    ```
    echo "TERMUX = true
-   SESSION_ID = izumi~NJrnzJyS
+   SESSION_ID =
    PREFIX = .
    READ_MSG = false
    ALWAYS_ONLINE = false
    REJECT_CALL = false
    LOG_MSG = true
-   SUDO = 917994489493
+   SUDO = 919567919237
    AUTO_STATUS_VIEW = true" > config.env
    ```
 - Start
@@ -110,5 +110,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### THANKS TO
-- [ Mask-Ser💗](https://github.com/mask-sir) <br>
+- [ 𝗰𝘆𝗯𝗲𝗿-𝘀𝗲𝗿💗](https://github.com/Shameem366/CYBER-366) <br>
 
