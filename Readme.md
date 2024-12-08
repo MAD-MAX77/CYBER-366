@@ -1,7 +1,5 @@
 <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/nijBDhN.jpeg'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<a><img src='https://i.imgur.com/nijBDhN.jpeg'/></a> 
 ## CYBER³⁶⁶ a simple Multi device Whatsapp Bot   
 ### Setup 
 1. Get Session
