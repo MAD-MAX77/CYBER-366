@@ -104,7 +104,7 @@ xc
   ```
 - Stop
   ```
-  pm2 delete izumi
+  pm2 delete CYBER-366 
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
